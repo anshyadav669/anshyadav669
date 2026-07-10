@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ansh Kumar Yadav</h1>
 
-<h3 align="center">💻 C++ Programmer | ⚛️ React Developer | 🌐 Frontend Developer | 🚀 DSA Enthusiast</h3>
+<h3 align="center">💻 C++ Programmer | ⚛️ React Developer | 🌐 Full Stack Web Developer | 🚀 DSA Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Competitive+Programmer;C%2B%2B+Developer;React+Developer;Frontend+Web+Developer;Always+Learning+New+Technologies!" alt="Typing SVG" />
